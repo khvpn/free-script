@@ -3,7 +3,7 @@
 
 # **ติดตั้ง Openvpn** <br>
 - sudo -i
-- wget https://raw.githubusercontent.com/teamvpn/free-script/master/openvpn-install.sh
+- wget https://raw.githubusercontent.com/khvpn/free-script/mastervip/openvpn-install.sh
 - chmod +x openvpn-install.sh
 - ./openvpn-install.sh
 - ติดตั้งเสร็จ พิมพ์ m
